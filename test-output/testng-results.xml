@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-04-23T15:33:08 IST" name="Default suite" finished-at="2020-04-23T15:33:09 IST" duration-ms="1624">
+    <groups>
+    </groups>
+    <test started-at="2020-04-23T15:33:08 IST" name="Default test" finished-at="2020-04-23T15:33:09 IST" duration-ms="1624">
+      <class name="BodytestWithJackson">
+        <test-method is-config="true" signature="setup()[pri:0, instance:BodytestWithJackson@38c5cc4c]" started-at="2020-04-23T15:33:08 IST" name="setup" finished-at="2020-04-23T15:33:08 IST" duration-ms="269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="notFoundMessageIsCorrect()[pri:0, instance:BodytestWithJackson@38c5cc4c]" started-at="2020-04-23T15:33:08 IST" name="notFoundMessageIsCorrect" finished-at="2020-04-23T15:33:09 IST" duration-ms="923" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- notFoundMessageIsCorrect -->
+        <test-method signature="returnCorrectId()[pri:0, instance:BodytestWithJackson@38c5cc4c]" started-at="2020-04-23T15:33:09 IST" name="returnCorrectId" finished-at="2020-04-23T15:33:09 IST" duration-ms="311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- returnCorrectId -->
+        <test-method signature="returnCorrectLogin()[pri:0, instance:BodytestWithJackson@38c5cc4c]" started-at="2020-04-23T15:33:09 IST" name="returnCorrectLogin" finished-at="2020-04-23T15:33:09 IST" duration-ms="76" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- returnCorrectLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:BodytestWithJackson@38c5cc4c]" started-at="2020-04-23T15:33:09 IST" name="tearDown" finished-at="2020-04-23T15:33:09 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- BodytestWithJackson -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
